@@ -1,4 +1,4 @@
-# WPU-Open-Api
+# Open-Api
 WPU-OpenApi adalah sebuah Website OpenApi yg berisikan Api Gratis Juga Tanpa Limit Untuk Kebutuhan Belajar Kalian, Ataupun Untuk Project Kalian, Terutama Untuk Komunitas WPU
 
 Dibuat dengan (Seperti Biasa):
@@ -13,14 +13,17 @@ Oiya, WPU-Open-Api juga nanti akan rilis versi package NPM, yang dimana kalian j
 Ini adalah Project Free & Open Source, Jika Kalian Ingin Menggunakannya Untuk Kepentingan Pribadi / Komersil, Boleh Saja, Karena WPU-OpenApi Ini Adalah Milik Kita Bersama :)
 
 
-## Cusss Ke Webnya
+## Demo
 
 https://wpu-open-api.herokuapp.com
 
 
 
 ## CREDITS
-- Zahir Hadi Athallah
 - WPU Community
+
+
+## Maintainer
+- Zahirrr
 
 
